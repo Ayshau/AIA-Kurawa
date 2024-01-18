@@ -191,10 +191,10 @@ button:hover{
     flex-wrap: wrap;
     justify-content: space-between;
     gap: 20px;
-    background-color #777;
 }
 #teams{
     margin-top: 6%;
+    background-color: #777;
 }
 .team-member {
     width: 30%; /* Adjust the width as needed */
